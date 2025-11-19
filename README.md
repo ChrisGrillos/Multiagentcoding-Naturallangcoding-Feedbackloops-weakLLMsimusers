@@ -1,2 +1,2 @@
 # Multiagentcoding-Naturallangcoding-Feedbackloops-weakLLMsimusers
-Archived concept work from Sept–Oct 2024 showing early designs for multi-agent coding loops, natural-language-to-code systems, tester/coder pairs, and weak-LLM simulated users—documenting that these ideas were fully formed before similar industry releases.
+Archived concept work from Sept–Oct 2024 showing early designs for multi-agent coding loops, natural-language-to-code systems, tester/coder pairs, and weak-LLM simulated users—documenting that these ideas were fully formed before similar industry releases. Review full framework start in prescience branch where there is a .pdf of timestamped work.
